@@ -1,4 +1,4 @@
-![Application screenshot](https://prnt.sc/1t8kukx)
+![Application screenshot](app-screenshot.png)
 
 ## Installation instructions
 
